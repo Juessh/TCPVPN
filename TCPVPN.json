@@ -45,6 +45,21 @@
 {
          "name": "TH-GAME-003",
          "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/TCP-TH-003.ovpn"
+      },
+
+{
+         "name": "MM-GAME-001",
+         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/TCP-TH-001.ovpn"
+      },
+
+{
+         "name": "MM-GAME-002",
+         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/TCP-TH-002.ovpn"
+      },
+
+{
+         "name": "MM-GAME-003",
+         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/TCP-TH-003.ovpn"
       }
 
 
