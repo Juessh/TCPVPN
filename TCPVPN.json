@@ -49,25 +49,25 @@
 
 {
          "name": "MM-GAME-001",
-         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/TCP-TH-001.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/TCP-MM-001.ovpn"
       },
 
 {
          "name": "MM-GAME-002",
-         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/TCP-TH-002.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/TCP-MM-002.ovpn"
       },
 
 {
          "name": "MM-GAME-003",
-         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/TCP-TH-003.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/TCP-MM-003.ovpn"
       }
 
 
 
    ],
-"message":"6 September 2022\n\n•Version:1\n\n•✅New Android VPN✅\n\n📢By : JueHtet📢",
+"message":"6 September 2022\n\n•Version:2\n\n•✅New Android VPN✅\n\n📢By : JueHtet📢",
    "title":"✅TCPVPN SERVERS✅" ,
-   "version": 1
+   "version": 2
 }
 
 
