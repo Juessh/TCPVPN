@@ -34,24 +34,24 @@
 
 {
          "name": "TH-GAME-001",
-         "url": "https://raw.githubusercontent.com/Juessh/Android-VPN/main/Android-TH-007.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/TCP-TH-001.ovpn"
       },
 
 {
          "name": "TH-GAME-002",
-         "url": "https://raw.githubusercontent.com/Juessh/Android-VPN/main/Android-TH-008.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/TCP-TH-002.ovpn"
       },
 
 {
          "name": "TH-GAME-003",
-         "url": "https://raw.githubusercontent.com/Juessh/Android-VPN/main/Android-TH-009.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/TCP-TH-003.ovpn"
       }
 
 
 
    ],
-"message":"1 September 2022\n\n•Version:1\n\n•✅New Android VPN✅\n\n📢By : JueHtet📢",
-   "title":"✅Add New VIP✅" ,
+"message":"6 September 2022\n\n•Version:1\n\n•✅New Android VPN✅\n\n📢By : JueHtet📢",
+   "title":"✅TCPVPN SERVERS✅" ,
    "version": 1
 }
 
