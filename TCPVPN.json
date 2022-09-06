@@ -3,56 +3,56 @@
 
 
 {
-         "name": "TH-Android-001",
-         "url": "https://raw.githubusercontent.com/Juessh/Android-VPN/main/Android-TH-001.ovpn"
+         "name": "SG-GAME-001",
+         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/TCP-GAME-001.ovpn"
       },
 
 {
-         "name": "TH-Android-002",
-         "url": "https://raw.githubusercontent.com/Juessh/Android-VPN/main/Android-TH-002.ovpn"
+         "name": "SG-GAME-002",
+         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/TCP-GAME-002.ovpn"
       },
 
 {
-         "name": "TH-Android-003",
-         "url": "https://raw.githubusercontent.com/Juessh/Android-VPN/main/Android-TH-003.ovpn"
+         "name": "SG-GAME-003",
+         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/TCP-GAME-003.ovpn"
       },
 
 {
-         "name": "TH-Android-004",
-         "url": "https://raw.githubusercontent.com/Juessh/Android-VPN/main/Android-TH-004.ovpn"
+         "name": "SG-GAME-004",
+         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/TCP-GAME-004.ovpn"
       },
 
 {
-         "name": "TH-Android-005",
-         "url": "https://raw.githubusercontent.com/Juessh/Android-VPN/main/Android-TH-005.ovpn"
+         "name": "SG-GAME-005",
+         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/TCP-GAME-005.ovpn"
       },
 
 {
-         "name": "TH-Android-006",
-         "url": "https://raw.githubusercontent.com/Juessh/Android-VPN/main/Android-TH-006.ovpn"
+         "name": "SG-GAME-006",
+         "url": "https://raw.githubusercontent.com/Juessh/TCPVPN/main/TCP-GAME-006.ovpn"
       },
 
 {
-         "name": "TH-Android-007",
+         "name": "TH-GAME-001",
          "url": "https://raw.githubusercontent.com/Juessh/Android-VPN/main/Android-TH-007.ovpn"
       },
 
 {
-         "name": "TH-Android-008",
+         "name": "TH-GAME-002",
          "url": "https://raw.githubusercontent.com/Juessh/Android-VPN/main/Android-TH-008.ovpn"
       },
 
 {
-         "name": "TH-Android-009",
+         "name": "TH-GAME-003",
          "url": "https://raw.githubusercontent.com/Juessh/Android-VPN/main/Android-TH-009.ovpn"
       }
 
 
 
    ],
-"message":"1 September 2022\n\n•Version:2\n\n•✅New Android VPN✅\n\n📢By : JueHtet📢",
+"message":"1 September 2022\n\n•Version:1\n\n•✅New Android VPN✅\n\n📢By : JueHtet📢",
    "title":"✅Add New VIP✅" ,
-   "version": 2
+   "version": 1
 }
 
 
